@@ -1,0 +1,6 @@
+{
+  "name": "Hum Drumz",
+  "description": "Your perfect drum track in natural language. Describe your drum beat and get it in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
