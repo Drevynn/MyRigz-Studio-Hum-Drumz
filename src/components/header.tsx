@@ -20,7 +20,7 @@ export function Header() {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 md:px-6">
         <Link href="/" className="flex items-center">
           <img 
-            src="/logo.png" 
+            src="/logo.jpg" 
             alt="Hum Drumz" 
             className="h-12 w-auto"
             data-testid="img-logo"

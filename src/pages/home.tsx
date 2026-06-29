@@ -121,7 +121,7 @@ function HeroSection() {
 
       <div className="relative z-10 mx-auto max-w-4xl px-4 py-24 text-center">
         <img 
-          src="/logo.png" 
+          src="/logo.jpg" 
           alt="Hum Drumz Logo" 
           className="mx-auto h-48 md:h-64 object-contain rounded-2xl border border-amber-500/15 shadow-[0_0_50px_rgba(245,158,11,0.1)] mb-6" 
           referrerPolicy="no-referrer"

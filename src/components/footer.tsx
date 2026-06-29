@@ -9,7 +9,7 @@ export function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center" data-testid="link-footer-logo">
               <img 
-                src="/logo.png" 
+                src="/logo.jpg" 
                 alt="Hum Drumz" 
                 className="h-10 w-auto"
               />
